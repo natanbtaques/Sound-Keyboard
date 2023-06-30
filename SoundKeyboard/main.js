@@ -1,4 +1,4 @@
-// faz uma busca no documento todo com o queryselectorall pela classe telca
+// faz uma busca no documento todo com o queryselectorall pela classe tleca
 const buttonsList = document.querySelectorAll(".tecla");
 
 let i = 0;
